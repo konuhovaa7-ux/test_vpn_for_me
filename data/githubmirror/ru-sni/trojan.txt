@@ -1,28 +1,31 @@
-trojan://%6D%69%74%69%76%70%6E@146.75.57.238:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F---%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E%2FNLSus---%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E&security=tls&alpn=http%2F1.1&insecure=0&host=%6D%69%74%69%76%70%6E-s1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=google.com#@Vip_Security join us - 4 | 1ms
-trojan://Aimer@108.162.195.236:443/?type=ws&host=ngepz.ambercc.filegear-sg.me&security=tls&sni=sage.ns.cloudflare.com#%40Hope_Net-join-us-on-Telegram | 2ms
-trojan://Aimer@162.159.44.236:443/?type=ws&host=ngepz.ambercc.filegear-sg.me&security=tls&sni=sage.ns.cloudflare.com&allowInsecure=1#%40Hope_Net-join-us-on-Telegram | 2ms
-trojan://Trojan-%48%71%762%72%61%79%4e%47@151.101.130.219:443?security=tls&sni=speedtest.net&type=ws&host=dontskii.hqv2rayng.xyz#🔒 TR-WS-TLS 🇺🇸 US-151.101.130.219:443 | 2ms
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:13298?sni=www.bing.com&allowInsecure=1#320 | 3ms
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:24069?sni=www.bing.com&allowInsecure=1#319 | 3ms
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:27378?sni=www.bing.com&allowInsecure=1#323 | 3ms
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:36001?sni=www.bing.com&allowInsecure=1#322 | 3ms
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:40004?sni=www.bing.com&allowInsecure=1#317 | 3ms
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:59361?sni=www.bing.com&allowInsecure=1#318 | 3ms
-trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:12565?sni=www.bing.com&allowInsecure=1#321 | 11ms
-trojan://0e681470-6845-11f1-8364-1239d0255272@news.microsoft.com:443?path=%2Fhowdy&amp;security=tls&amp;insecure=0&amp;host=usa.test3.net&amp;type=ws&amp;allowInsecure=0&amp;sni=usa.test3.net#[534][US][0][TROJAN][None][prrofile_purple][2026-06-14][2026-11-25 05:53] | 12ms
-trojan://5416ef6f-b8e5-48e9-87e4-3d5649b2e3e0@us-1.gsafevpnapi.com:44370?sni=www.yahoo.com#%F0%9F%87%BA%F0%9F%87%B8%2042 | 47ms
-trojan://nCKwZIFgBH@gary04.1688848.xyz:38663?sni=www.bing.com&allowInsecure=1#03 | 50ms
-trojan://nCKwZIFgBH@gary04.1688848.xyz:37233?sni=www.bing.com&allowInsecure=1#02 | 51ms
-trojan://nCKwZIFgBH@gary04.1688848.xyz:51565?sni=www.bing.com&allowInsecure=1#04 | 55ms
-trojan://nCKwZIFgBH@gary04.1688848.xyz:22508?sni=www.bing.com&allowInsecure=1#05 | 65ms
-trojan://f6a0a650-306e-11ee-b692-1239d0255272@51.158.146.183:443/?type=tcp&security=tls&sni=Speedtest.net#%F0%9F%87%B3%F0%9F%87%B1NL-51.158.146.183-8278 | 94ms
-trojan://SoftNetConnect@167.233.105.87:443?mode=auto&path=%2F&security=reality&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=nhOVbG_d8gvDrs6ayt-kdjwo2wITTujBH_hbDO5hZnE&fp=chrome&spx=%2F&type=xhttp&sni=www.yahoo.com&sid=7a66d2f9e8805c17#%F0%9F%87%A9%F0%9F%87%AA%20Germany%200389 | 98ms
-trojan://SoftNetConnect@83.228.224.161:443?security=reality&sni=www.yahoo.com&fp=chrome&pbk=lnP3zaTgKpFJpC8IYOJZUuAedJghDQPowXJp5diOzQA&sid=141b14d8&spx=%2F&type=xhttp&path=%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20065 | 105ms
-trojan://F3NzMNuYnG7akU2mSlBY@193.123.160.109:8443?sni=www.microsoft.com&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5JP_18%7C611KB/s%7CC002-260622%20%5B1d69c374a686%5D | 157ms
-trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-jp2.1card.cc:10008?security=tls&sni=www.cloudflare.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20182 | 207ms
-trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-jp1.1card.cc:10008?security=tls&sni=www.cloudflare.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20181 | 211ms
-trojan://5416ef6f-b8e5-48e9-87e4-3d5649b2e3e0@hk-1.gsafevpnapi.com:44370?sni=www.yahoo.com#%F0%9F%87%AD%F0%9F%87%B0%2041 | 215ms
-trojan://5416ef6f-b8e5-48e9-87e4-3d5649b2e3e0@sg-2.gsafevpnapi.com:44370?sni=www.yahoo.com#%F0%9F%87%B8%F0%9F%87%AC%2043 | 272ms
-trojan://83a8fde4-62d6-41ae-85a8-0cef7504027c@tu.g-boot.ir:443?security=reality&pbk=KaVqOudPdBy9TIEDxGMN_fcOGlKJmNg2e2grikDJ2lE&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=9a597f16c2171bab#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20047 | 298ms
-trojan://erqdvpg95no9i4ox@shop.raadshop.bond:8447?security=reality&sni=dl.google.com&fp=chrome&pbk=XriFROPBSExFRv1woiPKt6tmBn1AW8UPSVnk6jqG1Rk&sid=5200238f5ec02cd0&spx=%2F3e968cac816da44&type=xhttp&path=%2F1d236330ba&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20032 | 406ms
-trojan://2f1f7fbf-f37d-4275-c014-298a83f4e5a8@www.speedtest.net:80/?type=tcp&security=tls#8ms
+trojan://Aimer@162.159.44.236:443/?type=ws&host=ngepz.ambercc.filegear-sg.me&security=tls&sni=sage.ns.cloudflare.com&allowInsecure=1#%40Hope_Net-join-us-on-Telegram | 6ms
+trojan://Aimer@108.162.195.236:443/?type=ws&host=ngepz.ambercc.filegear-sg.me&security=tls&sni=sage.ns.cloudflare.com#%40Hope_Net-join-us-on-Telegram | 8ms
+trojan://%6D%69%74%69%76%70%6E@146.75.57.238:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F---%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E%2FNLSus---%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E&security=tls&alpn=http%2F1.1&insecure=0&host=%6D%69%74%69%76%70%6E-s1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=google.com#@Vip_Security join us - 4 | 14ms
+trojan://Trojan-%48%71%762%72%61%79%4e%47@151.101.130.219:443?security=tls&sni=speedtest.net&type=ws&host=dontskii.hqv2rayng.xyz#🔒 TR-WS-TLS 🇺🇸 US-151.101.130.219:443 | 14ms
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:40004?sni=www.bing.com&allowInsecure=1#4Nika-006cf34360 | 24ms
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:59361?sni=www.bing.com&allowInsecure=1#4FreeIran-73eed330ad | 28ms
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:36001?sni=www.bing.com&allowInsecure=1#4Kian-308ed2e416 | 29ms
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:27378?sni=www.bing.com&allowInsecure=1#4Mohsen-8e84d4e385 | 42ms
+trojan://0e681470-6845-11f1-8364-1239d0255272@news.microsoft.com:443?path=%2Fhowdy&amp;security=tls&amp;insecure=0&amp;host=usa.test3.net&amp;type=ws&amp;allowInsecure=0&amp;sni=usa.test3.net#[534][US][0][TROJAN][None][prrofile_purple][2026-06-14][2026-11-25 05:53] | 44ms
+trojan://5416ef6f-b8e5-48e9-87e4-3d5649b2e3e0@us-1.gsafevpnapi.com:44370?sni=www.yahoo.com#%F0%9F%87%BA%F0%9F%87%B8%20us-1 | 44ms
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:24069?sni=www.bing.com&allowInsecure=1#4Kian-a65c07a2d4 | 50ms
+trojan://nCKwZIFgBH@gary04.1688848.xyz:51565?sni=www.bing.com&allowInsecure=1#4FreeIran-21403d4669 | 56ms
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:13298?sni=www.bing.com&allowInsecure=1#4Mohsen-346a39e775 | 58ms
+trojan://2lehyqjISErfkbZr@gary03.1688848.xyz:12565?sni=www.bing.com&allowInsecure=1#4Mohsen-ae0e32a90a | 71ms
+trojan://nCKwZIFgBH@gary04.1688848.xyz:38663?sni=www.bing.com&allowInsecure=1#4Kian-99209db231 | 76ms
+trojan://nCKwZIFgBH@gary04.1688848.xyz:37233?sni=www.bing.com&allowInsecure=1#4Jadi-8f44be7378 | 80ms
+trojan://nCKwZIFgBH@gary04.1688848.xyz:22508?sni=www.bing.com&allowInsecure=1#4Mohsen-463662eff4 | 81ms
+trojan://f6a0a650-306e-11ee-b692-1239d0255272@51.158.146.183:443/?type=tcp&security=tls&sni=Speedtest.net#%F0%9F%87%B3%F0%9F%87%B1NL-51.158.146.183-8278 | 113ms
+trojan://SoftNetConnect@167.233.105.87:443?mode=auto&path=%2F&security=reality&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=nhOVbG_d8gvDrs6ayt-kdjwo2wITTujBH_hbDO5hZnE&fp=chrome&spx=%2F&type=xhttp&sni=www.yahoo.com&sid=7a66d2f9e8805c17#%F0%9F%87%A9%F0%9F%87%AA%20Germany%200405 | 128ms
+trojan://F3NzMNuYnG7akU2mSlBY@193.123.160.109:8443?sni=www.microsoft.com&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5JP_18%7C611KB/s%7CC002-260622%20%5B1d69c374a686%5D | 133ms
+trojan://SoftNetConnect@83.228.224.161:443?security=reality&sni=www.yahoo.com&fp=chrome&pbk=lnP3zaTgKpFJpC8IYOJZUuAedJghDQPowXJp5diOzQA&sid=141b14d8&spx=%2F&type=xhttp&path=%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20070 | 133ms
+trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-jp1.1card.cc:10008?security=tls&sni=www.cloudflare.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20226 | 154ms
+trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-jp2.1card.cc:10008?security=tls&sni=www.cloudflare.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20227 | 165ms
+trojan://erqdvpg95no9i4ox@shop.raadshop.bond:8447?security=reality&sni=dl.google.com&fp=chrome&pbk=XriFROPBSExFRv1woiPKt6tmBn1AW8UPSVnk6jqG1Rk&sid=5200238f5ec02cd0&spx=%2F3e968cac816da44&type=xhttp&path=%2F1d236330ba&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20032 | 179ms
+trojan://5416ef6f-b8e5-48e9-87e4-3d5649b2e3e0@hk-1.gsafevpnapi.com:44370?sni=www.yahoo.com#%F0%9F%87%AD%F0%9F%87%B0%20hk-1 | 205ms
+trojan://b9c83038-8118-f3fc-016f-2e69a57347b0@freenetxbot.ahbpanel.ir:2096?security=reality&sni=www.microsoft.com&fp=chrome&pbk=ZKGMt0Rnd8Vu7YBNmiW7aPvCzq1K48a2x0vmkBBwlHQ&sid=d6642b36&spx=/&type=tcp#4Mohsen-dd83e0ef42 | 230ms
+trojan://5416ef6f-b8e5-48e9-87e4-3d5649b2e3e0@sg-2.gsafevpnapi.com:44370?sni=www.yahoo.com#%F0%9F%87%B8%F0%9F%87%AC%20sg-2 | 248ms
+trojan://870e952f-f787-412d-9bb0-7a52836e9126@de.g-boot.ir:443?security=reality&pbk=KaVqOudPdBy9TIEDxGMN_fcOGlKJmNg2e2grikDJ2lE&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=9a597f16c2171bab#%F0%9F%87%A9%F0%9F%87%AA%20Germany%200404 | 329ms
+trojan://83a8fde4-62d6-41ae-85a8-0cef7504027c@tu.g-boot.ir:443?security=reality&pbk=KaVqOudPdBy9TIEDxGMN_fcOGlKJmNg2e2grikDJ2lE&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=9a597f16c2171bab#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20049 | 370ms
+trojan://83a8fde4-62d6-41ae-85a8-0cef7504027c@ir.g-boot.ir:443?security=reality&pbk=KaVqOudPdBy9TIEDxGMN_fcOGlKJmNg2e2grikDJ2lE&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=9a597f16c2171bab#%F0%9F%87%AE%F0%9F%87%B7%20Iran%200069 | 396ms
+trojan://2f1f7fbf-f37d-4275-c014-298a83f4e5a8@www.speedtest.net:80/?type=tcp&security=tls#17ms
